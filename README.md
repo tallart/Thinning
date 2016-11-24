@@ -1,5 +1,3 @@
-# Thinning
-
 Simulate non homogeneous Poisson process.
 -----------------------------------------
 
